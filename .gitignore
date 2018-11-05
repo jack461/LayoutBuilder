@@ -1,0 +1,6 @@
+log.txt
+**/Builds
+**/JuceLibraryCode
+**/Presets
+*.swp
+**/.DS_Store
